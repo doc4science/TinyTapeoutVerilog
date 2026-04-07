@@ -91,4 +91,3 @@ module tt_um_doc4science_vga_stripes (
     assign uio_oe  = 8'b0;
 
 endmodule
-\end{lstlisting}
